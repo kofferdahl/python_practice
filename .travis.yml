@@ -5,3 +5,4 @@ install:
         - pip install -r requirements.txt
 script:
         - pytest -v --cov --pep8
+>>>>>>> fa7ef761ef7bd780cd1136657d370c5c804555fd
